@@ -115,7 +115,6 @@ footer{
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  position: absolute;
   z-index: -1000;
 }
 
